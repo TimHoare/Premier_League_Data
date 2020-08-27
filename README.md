@@ -67,3 +67,14 @@ Raw data in for every game in JSON format can be found in [data/games/](https://
 
 `event_description` is very similar, but carries an extra level of detail for subs in and out and card types: yellow, red or second yellow.
 
+## Viz
+
+### Top goalscorers
+
+![](https://github.com/TimHoare/Premier_League_Data/blob/master/vis/top_goal_scorers.png)
+
+### Top assisters
+
+![](https://github.com/TimHoare/Premier_League_Data/blob/master/vis/top_assisters.png)
+
+
