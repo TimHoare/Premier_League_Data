@@ -31,7 +31,7 @@ Raw data in for every game in JSON format can be found in [data/games/](https://
 |referee_name        |Referee name                                                                  |
 |behind_closed_doors |Boolean. Was game played behind closed doors?                                 |
 
-`teams.csv` - Matchday squads for games. Joins to `matches.csv` on `match_id`. Note that this data looks to be slightly spotty in terms of reliability.
+[`teams.csv`](https://github.com/TimHoare/Premier_League_Data/tree/master/data/teams.csv) - Matchday squads for games. Joins to `matches.csv` on `match_id`. Note that this data looks to be slightly spotty in terms of reliability.
 
 |Column      |Description |
 |:-----------|:-----------|
@@ -47,7 +47,7 @@ Raw data in for every game in JSON format can be found in [data/games/](https://
 |nationality |Nationality        |
 |birth_date  |Birth date in YYYY-MM-DD format        |
 
-`events.csv` - Events in game. These include goals, cards, substitutes etc. Again, Joins to `matches.csv` on `match_id` and to `teams.csv` by `player_id` and/or `assist_id`
+[`events.csv`](https://github.com/TimHoare/Premier_League_Data/tree/master/data/events.csv) - Events in game. These include goals, cards, substitutes etc. Again, Joins to `matches.csv` on `match_id` and to `teams.csv` by `player_id` and/or `assist_id`
 
 |value       |description |
 |:-----------|:-----------|
