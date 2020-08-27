@@ -6,9 +6,9 @@ The data has been scraped from the Premier League's [official website](https://w
 
 ## The data
 
-Raw data in for every game in JSON format can be found in data/games/. The processed data includes:
+Raw data in for every game in JSON format can be found in [data/games/](https://github.com/TimHoare/Premier_League_Data/tree/master/data/games). The processed data includes:
 
-`matches.csv` - Metadata about each match. Columns are as follows:
+(`matches.csv`)[https://github.com/TimHoare/Premier_League_Data/tree/master/data/matches.csv] - Metadata about each match. Columns are as follows:
 
 |Column              |Description                                                                   |
 |:-------------------|:-----------------------------------------------------------------------------|
